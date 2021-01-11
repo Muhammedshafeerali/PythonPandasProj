@@ -1,0 +1,243 @@
+CategoryId	CategoryName
+42010	Internal Sales Residential
+42011	Internal Sales Residential - Sales Adj
+42050	External Sales - Residential
+42051	External Sales Residential - Sales Adj
+42099	Sales - Rescinded Contracts
+43010	Internal Sales - Commercial
+43011	Internal Sales Adjustments - Comm
+43050	External Sales - Commercial
+43051	External Sales Adjustments - Comm
+48000	Other Revenue
+49000	GST On Sales
+51005	GEODEPO Incentive
+51010	GEOFIRST-FirstHomeOwner
+51015	GEOINVEST-Investors
+51020	GEOVISA-Visa incentive
+51025	Investor Initiative
+51030	Investor Rent incent
+51035	Incentive - Other
+51040	Visa Incentives
+51045	GEOGOLD - Gold Club Member
+51900	Rebates
+52005	Upfront Commission - External - Residential
+52010	Bonus Commission - External - Residential
+52015	Settlement Commission - External Agent - Residential
+53005	Upfront Commission - Internal - Residential
+53010	Bonus Commission - Internal - Residential
+53015	Settlement Commission - Internal Agent - Residential
+54005	Conveyancing
+61105	Land at Cost
+61110	Stamp Duty
+61115	LDA Penalty Interest
+61405	Land Tax
+61410	Council Rates
+61415	Water Rates
+61420	Interest - Late payment charges
+61425	Body Corp Levies
+61430	Property Management Fees
+61435	Utilities
+61440	Property R&M
+61900	Lease Variation Charge
+71105	Construction Claims - External
+71110	Construction Claims - Internal
+71205	Construction Fit Out - External
+71210	Construction Fit Out - Internal
+72005	Offsite Work Costs - External
+72010	Offsite Work Costs - Internal
+72099	"Furniture, Fixtures & Equipments"
+73000	Contingency
+73005	Construction Variations - External
+73010	Construction Variations - Internal
+75005	Accessibility Consultant
+75010	Acoustic
+75015	Arborist
+75020	Architect
+75025	Certifier
+75030	Community Consult
+75035	Government Fees - Devt. Application
+75040	Energy Consultant
+75045	EER Consultant
+75050	Heritage consultants
+75055	Environmental Consultant
+75060	Fire Engineering
+75065	Landscape Architect
+75070	Other Professional Fees / Consultants
+75075	Cost Plan / Quantity Surveyor
+75080	Engineer - Electrical
+75085	Engineer - Hydraulic
+75090	Engineer - Mechanical
+75095	Engineer - Civil
+75100	Engineer- Structural
+75105	Surveyor
+75110	Sustainability
+75115	Town Planner (Statutory)
+75120	Traffic Engineer
+75125	Valuation Fees
+75130	Wind Report
+75900	Unit Titling
+77500	Legal Fees - General
+77505	Legal Fees - Finance Senior
+77510	Legal Fees - Finance Mezz
+77515	Legal Fees - DMA
+77520	Legal Fees - Rescinded Contracts
+78000	Bank Charges
+78005	Borrowing Costs
+78010	Deposit & Surety Bonds
+78100	Loan Establishment Fees - Land Bank
+78105	Loan Establishment Fees - Senior
+78110	Loan Establishment Fees - Mezz
+78115	Loan Establishment Fees - Residual
+78120	Loan Establishment Fees - Other
+78200	Interest Capitalised - Mezz
+78205	Interest Capitalised -Senior
+78210	Interest Capitalised - Residual
+78300	Interest Paid - Land Bank
+78305	Interest Paid - Senior
+78310	Interest Paid - Mezz
+78315	Interest Paid - Residual
+78320	Interest Paid - Other
+80001	Building Wrap
+80002	Hoarding - fencing
+80003	Hoarding - repairs and changes
+80004	Hoarding - signage
+80005	Signage
+81001	Disp Suite Furnish
+81002	Retail Shop - F/out
+81003	Sales Suite - F/Out
+81004	Sales suite - technology
+81005	Shopping Centre Pop Ups
+82001	3D interactive model
+82002	3D Renders
+82003	Adhoc Creativ agency
+82004	Adhoc printing
+82005	Brightfox/Apps
+82006	Brochure
+82007	Campaign image
+82008	Copy writing
+82009	Investment Report
+82010	Model
+82011	Photography
+82012	Project Film Production
+82013	Project management
+82014	Promotional Collater
+82015	Strategy/Concept/Nam
+82016	Talk Book
+82017	TVC&Cinema productn
+82018	Virtual Reality
+82019	Website
+83001	Realestate website listings
+83002	Cinema - local
+83003	Community awareness
+83004	Creative Agency Fee
+83005	Digital - local
+83006	Digital - Metro
+83007	Digital - Regional
+83008	DL flyer print and distribution
+83009	EDM - Metro
+83010	Google and digital search engine
+83011	IPG-CarriedMarketing
+83012	Print media - local
+83013	Print media - Metro
+83014	Print media - Regional
+83015	Print media-Cultural
+83016	Radio - local
+83017	Social media
+83018	TV - local
+83019	TV - Regional
+83020	Wechat/Chinese website
+83021	Video Advertising
+84001	Buyers Event
+84002	Investor/FHB events
+84003	Market release event
+84004	Project Open Day
+85001	Digital Advertising
+85002	Virtual Reality - Commercial
+85003	Marketing Plans
+85004	Market Assessment Reports
+85005	Signage
+85006	Print Advertising
+85007	Allhomes 3D - Commercial
+85008	Printing - Commercial
+85009	Other commercial sales costs
+85010	Travel & Accommodation
+85011	Release events - Ext agents
+85012	Direct Events - External agents
+85013	Entertainment
+85014	Subscriptions
+85501	Internal Sales Business Marketing
+85502	Internal Sales Agent Branded Marketing
+86001	Brand Ambassador/Partnerships
+87001	EDM - campaign monitor fees
+87002	Marketing Automation
+87003	Salesforce
+88001	Conceirge team
+88002	Cost recovery
+88003	Sales incentives
+98001	Development fee Income - Internal
+98002	Development Fee Expense - Internal
+98003	GEOCON Development Managemnt Fee
+98004	JV Parter Development Management Fee
+99001	Administrative Fees
+99002	Fees & Permits
+99003	Insurances
+99004	Misc Expenses
+Claims	Claims
+Sales Est	Sales Estimates
+WIPCR	WIPCR
+86002	External agent carried marketing cost
+81006	Finishes Boards
+48100	Cost Recovery
+85015	Collateral for External Agent
+85016	Advertising for External Agents
+47000	Interest Income
+52008	Upfront Commission - External - Commercial
+52013	Bonus Commission - External - Commercial
+52018	Settlement Commission - External Agent - Commercial
+53008	Upfront Commission - Internal - Commercial
+53013	Bonus Commission - Internal - Commercial
+53018	Settlement Commission - Internal Agent - Commercial
+71305	Pre-Construction Costs
+LANDCR	 Land Release
+54010	Company/ Title Searches
+54015	Contract printing
+COSTTRF	Development costs
+COSTTRF-OH	COSTTRF-Overhead
+WIPCR-OH	WIPCR-Overhead
+83022	Transport Advertising
+51700	Commercial Leasing Incentives
+53050	Lease Fees Internal
+42098	Residential Sale Variation
+43098	Commercial Sales Variation
+51000F	Incentives
+51050	FIRB
+51900F	Rebates
+83023	Media buyer fees – under advertising
+83999	Ad hoc contingency budget – Under advertising
+84005	Settlement gifts & key boxes  – under Events
+I1010	Rent Received
+I1020	Outgoings Recovered
+I4010	Rent Held in Trust
+I4020	Accrued Revenue
+I5010	Council Rates
+I5020	Water Rates
+I5021	Water Usage
+I5030	Land Tax
+I5040	Body Corp Levies
+I5050	PM - Management Fee
+I5051	PM - Letting Fee
+I5052	PM - Advertising Fee
+I5053	PM - Admin Fee
+I5060	PM - Other
+I5070	Electricity
+I5075	Gas
+I5080	Repairs & Maintenance
+I5090	Cleaning
+I5100	Security Expenses
+I5110	Waste Removal
+I6010	Valuation Fees
+WIPCR BC	WIPCR – Borrowing Costs
+98005	Geocon Equity Return
+98006	JV Partner Equity Return
+77525	Legal Fees – Finance Land
+48200	Rental Income
