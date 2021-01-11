@@ -16,10 +16,16 @@ dfProjPostingData.rename(columns={'DisplayValue':'accountid','ProjCategoryRelati
 
 print(dfProjPostingData)
 
-new_Wips_PostingData=pd.merge(WIPS,dfProjPostingData)
-print(new_Wips_PostingData)
+# new_Wips_PostingData=pd.merge(WIPS,dfProjPostingData )
+# print(new_Wips_PostingData)
 
-new_categoris_PostingData=pd.merge(categories,new_Wips_PostingData)
+new_Wips_PostingData=pd.merge(WIPS,dfProjPostingData ,on='CategoryId')
+print(new_Wips_PostingData)
+# new_categoris_PostingData=pd.merge(categories,new_Wips_PostingData)
+
+# print(new_categoris_PostingData)
+
+new_categoris_PostingData=pd.merge(categories,new_Wips_PostingData,on='CategoryId')
 
 print(new_categoris_PostingData)
 
